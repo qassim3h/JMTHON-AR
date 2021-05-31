@@ -2,8 +2,7 @@
 
 #𝗠𝗬 𝗡𝗔𝗠𝗘 𝗠𝗨𝗛𝗔𝗠𝗠𝗔𝗗
 
-Telegram  : @Jmthon\n
-User Telegram  : @RRRD7
+Telegram  : @Jmthon n\ User Telegram  : @RRRD7
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsandy1709&count_bg=%231EE510&title_bg=%23555555&icon=&icon_color=%23931414&title=account+views&edge_flat=false)](https://hits.seeyoufarm.com)
 
