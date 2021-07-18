@@ -17,7 +17,7 @@
 
 <h4 align="center"><b>MY GITHUB STATS -💛</b></h4>
 
-![JMTHON Git Stats](https://github-readme-stats.vercel.app/api?username=JMTHON-AR&include_all_commits=true&count_private=true&theme=highcontrast)
+![JMTHON STATE](https://github-readme-stats.vercel.app/api?username=JMTHON-AR&include_all_commits=true&count_private=true&theme=highcontrast)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JMTHON-AR&layout=compact&theme=radical)](https://github.com/JMTHON-AR)
