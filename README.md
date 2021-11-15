@@ -5,7 +5,7 @@
 
 ```python
 𝘈𝘕 𝘈𝘙𝘈𝘉𝘐𝘊 𝘛𝘌𝘓𝘌𝘎𝘙𝘈𝘔 𝘜𝘚𝘌𝘙𝘉𝘖𝘛 𝘋𝘌𝘝𝘌𝘓𝘖𝘗𝘌𝘙
-𝘋𝘌𝘝𝘌𝘓𝘖𝘗𝘌𝘙  :  @RRRD7  -  @UUNZZ
+𝘋𝘌𝘝𝘌𝘓𝘖𝘗𝘌𝘙  :  @RR9R7  -  @SBB_B
 ```
 #### 
 [![telegram badge](https://img.shields.io/badge/CONTACT-ME-30302f?style=for-the-badge&logo=telegram)](https://t.me/JMTHON)
